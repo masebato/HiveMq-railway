@@ -1,0 +1,10 @@
+{
+  "build": {
+    "dockerfilePath": "./Dockerfile"
+  },
+  "startCommand": null,
+  "healthCheck": {
+    "path": "/",
+    "port": 8080
+  }
+}

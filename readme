@@ -1,0 +1,10 @@
+# HiveMQ CE en Railway
+
+Este proyecto despliega un broker MQTT usando HiveMQ Community Edition en Railway.
+
+## Puertos
+- **1883**: Protocolo MQTT.
+- **8080**: Dashboard web.
+
+## Configuración
+Este proyecto usa la imagen oficial de Docker para HiveMQ CE.
