@@ -5,4 +5,4 @@ FROM hivemq/hivemq-ce:latest
 EXPOSE 1883 8080
 
 # Comando de inicio
-CMD ["/opt/hivemq/bin/run.sh"]
+CMD ["/opt/hivemq/run.sh"]
